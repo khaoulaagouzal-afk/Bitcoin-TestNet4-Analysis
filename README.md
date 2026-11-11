@@ -20,6 +20,8 @@ Comprendre la structure d'une transaction et le rôle de ses différents éléme
 
 Khaoula Agouzal
 
+This project was created as part of the Master FinTech Blockchain course.
+
 ## 6. Outils utilisés
 
 - Bitcoin TestNet4
